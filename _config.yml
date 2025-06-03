@@ -11,7 +11,7 @@ defaults:
       layout: "default"
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: bard_dark
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
