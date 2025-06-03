@@ -3,6 +3,13 @@ description: YOUR DESCRIPTION
 theme: just-the-docs
 url: https://bardbrews.com
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
